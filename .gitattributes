@@ -1,17 +1,17 @@
 Android/scenes
-Android/ta
-Android/t0
-Android/t1
-Android/t2
-Android/t3
-Android/t4
-Android/t5
-Android/t6
-Android/t7
-Android/images.sd
-Android/images.hd
+Android/ta filter=lfs diff=lfs merge=lfs -text
+Android/t0 filter=lfs diff=lfs merge=lfs -text
+Android/t1 filter=lfs diff=lfs merge=lfs -text
+Android/t2 filter=lfs diff=lfs merge=lfs -text
+Android/t3 filter=lfs diff=lfs merge=lfs -text
+Android/t4 filter=lfs diff=lfs merge=lfs -text
+Android/t5 filter=lfs diff=lfs merge=lfs -text
+Android/t6 filter=lfs diff=lfs merge=lfs -text
+Android/t7 filter=lfs diff=lfs merge=lfs -text
+Android/images.sd filter=lfs diff=lfs merge=lfs -text
+Android/images.hd filter=lfs diff=lfs merge=lfs -text
 
-*.
+
 
 ## Unity ##
 
