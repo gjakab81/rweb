@@ -1,4 +1,4 @@
-Android/scenes
+Android/scenes filter=lfs diff=lfs merge=lfs -text
 Android/ta filter=lfs diff=lfs merge=lfs -text
 Android/t0 filter=lfs diff=lfs merge=lfs -text
 Android/t1 filter=lfs diff=lfs merge=lfs -text
