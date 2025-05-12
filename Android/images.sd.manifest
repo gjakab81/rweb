@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2309543898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d43993a8165b6bb7fd5aa1e0bd6db73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleMagic/Scenes/Variants/sd/img3.jpg
+- Assets/AssetBundleMagic/Scenes/Variants/sd/img1.jpg
+- Assets/AssetBundleMagic/Scenes/Variants/sd/img4.jpg
+- Assets/AssetBundleMagic/Scenes/Variants/sd/img2.jpg
+Dependencies: []

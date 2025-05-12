@@ -1,0 +1,130 @@
+ManifestFileVersion: 0
+CRC: 2446524707
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenes
+      Dependencies:
+        Dependency_0: ta
+        Dependency_1: t0
+        Dependency_2: t1
+        Dependency_3: t2
+        Dependency_4: t3
+        Dependency_5: t4
+        Dependency_6: t5
+        Dependency_7: t6
+        Dependency_8: t7
+    Info_1:
+      Name: images.sd
+      Dependencies: {}
+    Info_2:
+      Name: images.hd
+      Dependencies: {}
+    Info_3:
+      Name: ta
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: t0
+        Dependency_2: t1
+        Dependency_3: t2
+        Dependency_4: t3
+        Dependency_5: t4
+        Dependency_6: t5
+        Dependency_7: t6
+        Dependency_8: t7
+    Info_4:
+      Name: t0
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: ta
+        Dependency_2: t1
+        Dependency_3: t2
+        Dependency_4: t3
+        Dependency_5: t4
+        Dependency_6: t5
+        Dependency_7: t6
+        Dependency_8: t7
+    Info_5:
+      Name: t1
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: ta
+        Dependency_2: t0
+        Dependency_3: t2
+        Dependency_4: t3
+        Dependency_5: t4
+        Dependency_6: t5
+        Dependency_7: t6
+        Dependency_8: t7
+    Info_6:
+      Name: t2
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: ta
+        Dependency_2: t0
+        Dependency_3: t1
+        Dependency_4: t3
+        Dependency_5: t4
+        Dependency_6: t5
+        Dependency_7: t6
+        Dependency_8: t7
+    Info_7:
+      Name: t3
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: ta
+        Dependency_2: t0
+        Dependency_3: t1
+        Dependency_4: t2
+        Dependency_5: t4
+        Dependency_6: t5
+        Dependency_7: t6
+        Dependency_8: t7
+    Info_8:
+      Name: t4
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: ta
+        Dependency_2: t0
+        Dependency_3: t1
+        Dependency_4: t2
+        Dependency_5: t3
+        Dependency_6: t5
+        Dependency_7: t6
+        Dependency_8: t7
+    Info_9:
+      Name: t5
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: ta
+        Dependency_2: t0
+        Dependency_3: t1
+        Dependency_4: t2
+        Dependency_5: t3
+        Dependency_6: t4
+        Dependency_7: t6
+        Dependency_8: t7
+    Info_10:
+      Name: t6
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: ta
+        Dependency_2: t0
+        Dependency_3: t1
+        Dependency_4: t2
+        Dependency_5: t3
+        Dependency_6: t4
+        Dependency_7: t5
+        Dependency_8: t7
+    Info_11:
+      Name: t7
+      Dependencies:
+        Dependency_0: scenes
+        Dependency_1: ta
+        Dependency_2: t0
+        Dependency_3: t1
+        Dependency_4: t2
+        Dependency_5: t3
+        Dependency_6: t4
+        Dependency_7: t5
+        Dependency_8: t6
